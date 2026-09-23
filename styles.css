@@ -1087,6 +1087,9 @@ footer {
   .nav-links a {
     padding: 12px;
   }
+  .nav-links .mobile-whatsapp {
+    display: none;
+  }
   .mobile-whatsapp {
     display: block !important;
     margin-top: 6px;
