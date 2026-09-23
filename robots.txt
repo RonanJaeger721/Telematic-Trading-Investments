@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://telematic-trading-investment.vercel.app/sitemap.xml
